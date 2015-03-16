@@ -1,5 +1,8 @@
 
 /*
+*	BNode CLASS - CSC 365 - Assignment 2
+*
+*	Author: Brandon Caruso
 *
 *	The foundation of the BTree - the Node. Contains words (keys), count (value), and
 *	pointers to children nodes (long seek offsets).
